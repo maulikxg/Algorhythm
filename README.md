@@ -1,6 +1,6 @@
 # Good Algo's
 
-## Arrays-I
+## [Arrays-I](https://github.com/maulikxg/Algorhythm/blob/master/Array-I.cpp)
 
 - [Set Matrix Zeros](https://leetcode.com/problems/set-matrix-zeroes/description/)
 - [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/)
